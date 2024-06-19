@@ -18,6 +18,8 @@ To run the client, run the following command:
 ```bash
 go run main.go -mode client
 ```
+```
+```
 
 ## Features
 
