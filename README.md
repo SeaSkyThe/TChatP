@@ -13,13 +13,14 @@ To run the server you have to have go installed on your system.
 And then run the following command:
 ```bash
 go run main.go -mode server
+```
 
 To run the client, run the following command:
+
 ```bash
 go run main.go -mode client
 ```
-```
-```
+
 
 ## Features
 
